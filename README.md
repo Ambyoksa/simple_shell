@@ -1,3 +1,3 @@
 0x16. C - Simple Shell
 
-Project to be done in teams with Samaila Mailabari
+Project collaboration with Samaila Mailabari
